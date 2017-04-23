@@ -17,6 +17,8 @@ public class MainApp extends Application {
     }
 
     public void start(Stage stage) throws Exception {
+        log.info("test");
+        log.info("test2");
 
         log.info("Starting Hello JavaFX and Maven demonstration application");
 
